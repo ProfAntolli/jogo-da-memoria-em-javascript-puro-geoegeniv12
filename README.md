@@ -143,10 +143,10 @@ styles.css
   .front-face{
     transform: rotateY(180deg);
   }
-
+  
 scripts.js
 
-  const cards = document.querySelectorAll('.memory-card');
+ const cards = document.querySelectorAll('.memory-card');
 
 let hasFlipCard = false;
 let lockBoard = false;
